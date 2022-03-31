@@ -24,6 +24,8 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
+![FireShot Capture 007 - Frontend Mentor - Single Price Grid Component - happycloud250 github io](https://user-images.githubusercontent.com/72793369/161106620-dacee4fb-1e5e-4bbb-84eb-e58c809cdcaa.jpg)
+![FireShot Capture 009 - Frontend Mentor - Single Price Grid Component - happycloud250 github io](https://user-images.githubusercontent.com/72793369/161106638-cf96bd74-d492-4737-8673-bb5f0b0e2163.jpg)
 
 
 
